@@ -1,9 +1,4 @@
-# ONLY AUTHOR: t0ast1337 aka iTsToastZ
-# july 4rd 2020 @ 11:29
-# youtube.com/itstoastz
-# run as administrator
-# @sendnudespls on telegram for questions
-# yo photy :D
+
 
 import subprocess, colorama, requests, base64, os
 
